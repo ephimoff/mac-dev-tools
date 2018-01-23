@@ -33,10 +33,12 @@ The list of some useful apps, plugins, frameworks and tools for all possible nee
 - [Nunjucks](https://mozilla.github.io/nunjucks/) - Another HTML templating engine
 - [Stylus](http://stylus-lang.com) - CSS preprocessor
 - [Base](http://getbase.org) - Lightweight HTML/CSS Framework
+- [Babel](https://babeljs.io) - Use next generation JavaScript, today
 
 ## Backend
 
 - [Postman](https://www.getpostman.com) - A powerful GUI platform to make your API development faster & easier
+- [NodeJS](https://nodejs.org/en/) - Backend JavaScript engine
 
 ## Databases
 
@@ -58,3 +60,4 @@ The list of some useful apps, plugins, frameworks and tools for all possible nee
 - [Todoist](https://todoist.com) - A cross-platform todo list app
 - [Spectacle](https://www.spectacleapp.com) - Move and resize windows with simple and customizable keyboard shortcuts
 - [1Password](https://1password.com) - A cross-platform password management tool. Paid
+- [Fira Code](https://github.com/tonsky/FiraCode) - A monospaced font with ligatures for programmers.
