@@ -39,6 +39,7 @@ The list of some useful apps, plugins, frameworks and tools for all possible nee
 
 - [Postman](https://www.getpostman.com) - A powerful GUI platform to make your API development faster & easier
 - [NodeJS](https://nodejs.org/en/) - Backend JavaScript engine
+- [ExpressJS](https://expressjs.com) - Fast, unopinionated, minimalist web framework for Node.js
 
 ## Databases
 
